@@ -1,1 +1,0 @@
-type constructorType<T> = new <T>(a: T) => T;
