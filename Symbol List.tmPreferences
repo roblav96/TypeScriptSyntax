@@ -5,9 +5,10 @@
     <string>Symbol List</string>
     <key>scope</key>
     <string>
-        source.ts meta.function-call,
-        source.ts new.expr,
-        source.ts meta.type.annotation
+        meta.function-call.ts,
+        new.expr.ts,
+        meta.type.annotation.ts,
+        meta.type.parameters.ts
     </string>
     <key>settings</key>
     <dict>
