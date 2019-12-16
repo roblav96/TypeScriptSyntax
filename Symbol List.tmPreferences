@@ -6,7 +6,8 @@
     <key>scope</key>
     <string>
         source.ts meta.function-call,
-        source.ts new.expr
+        source.ts new.expr,
+        source.ts meta.type.annotation
     </string>
     <key>settings</key>
     <dict>
