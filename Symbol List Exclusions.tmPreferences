@@ -3,12 +3,8 @@
 <dict>
     <key>scope</key>
     <string>
-        meta.function-call.ts,
-        new.expr.ts,
-        meta.type.annotation.ts,
-        meta.type.parameters.ts,
-        meta.return.type.ts,
-        entity.name.type.ts
+        entity.name.type.ts,
+        meta.function-call.ts
     </string>
     <key>settings</key>
     <dict>
