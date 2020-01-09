@@ -3,13 +3,13 @@
 <dict>
     <key>scope</key>
     <string>
-        entity.name.type.ts,
-        entity.name.function.ts
+        meta.definition.function.ts,
+        meta.definition.method.ts
     </string>
     <key>settings</key>
     <dict>
         <key>showInIndexedReferenceList</key>
-        <string>1</string>
+        <string>0</string>
     </dict>
 </dict>
 </plist>
