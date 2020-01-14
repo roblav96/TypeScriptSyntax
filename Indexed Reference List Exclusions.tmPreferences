@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>scope</key>
+    <string>
+        meta.definition.function.ts,
+        meta.definition.method.ts
+    </string>
+    <key>settings</key>
+    <dict>
+        <key>showInIndexedReferenceList</key>
+        <string>0</string>
+    </dict>
+</dict>
+</plist>
