@@ -4,7 +4,9 @@
     <key>scope</key>
     <string>
         entity.name.type.ts,
-        meta.function-call.ts
+        entity.name.type.tsx,
+        meta.function-call.ts,
+        meta.function-call.tsx
     </string>
     <key>settings</key>
     <dict>

@@ -4,7 +4,9 @@
     <key>scope</key>
     <string>
         entity.name.type.ts,
-        entity.name.function.ts
+        entity.name.type.tsx,
+        entity.name.function.ts,
+        entity.name.function.tsx
     </string>
     <key>settings</key>
     <dict>
