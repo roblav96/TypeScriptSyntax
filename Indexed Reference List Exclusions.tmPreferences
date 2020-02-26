@@ -4,7 +4,9 @@
     <key>scope</key>
     <string>
         meta.definition.function.ts,
-        meta.definition.method.ts
+        meta.definition.function.tsx,
+        meta.definition.method.ts,
+        meta.definition.method.tsx
     </string>
     <key>settings</key>
     <dict>
